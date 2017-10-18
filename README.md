@@ -1,6 +1,6 @@
 # EmailCheckerNET
 
-##Basic Idea
+## Basic Idea
 
 This component let the programmer check if email mailbox exists without having to send an email for this process.
 There is a lot of online tools for this, but all the options that I found was for paid or with limitations.
@@ -13,6 +13,6 @@ So, as a first project on github I want to share what I learn on my research, an
 
 Hopefully this will be usefull for someone.
 
-*If you like this project feel free to collaborate with feedback or any comment...
-any donation are welcome at *
+_If you like this project feel free to collaborate with feedback or any comment...
+any donation are welcome at_
 https://www.paypal.me/roberto12cr/1
