@@ -8,7 +8,9 @@ There is a lot of online tools for this, but all the options that I found was fo
 For example:
 
 https://verify-email.org/
+
 https://email-checker.net/
+
 https://hunter.io/email-verifier
 
 So, as a first project on github I want to share what I learn on my research, and if possible reduce these reseach time for other developers that require this functionallity on their projects.
