@@ -3,7 +3,7 @@
 ## Basic Idea of the project
 
 This component lets the programmer check if email mailbox exists without having to send an email for this process.
-There is a lot of online tools for this, but all the options that I found were for paid or with limitations.
+There are a lot of online tools for this, but all the options that I found were for paid or with limitations.
 
 For example:
 
